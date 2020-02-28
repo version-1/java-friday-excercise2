@@ -1,0 +1,1 @@
+# java-friday-excercise2
